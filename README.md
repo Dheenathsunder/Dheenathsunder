@@ -8,6 +8,8 @@
 AI Engineer working on applied deep learning, Generative AI, and agentic systems.  
 Focused on building models and systems that run reliably in production.
 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 ---
 
 ## Focus Areas
@@ -48,8 +50,8 @@ Focused on building models and systems that run reliably in production.
 - Data annotation using LabelImg
 
 ### Cloud & Deployment
-- **AWS:** S3, EC2, ECS, Fargate, Lambda, OpenSearch, IAM, Bedrock Knowledge Base, AgentCore
-- **Azure:** Container Apps, Blob Storage, Tables
+- AWS: S3, EC2, ECS, Fargate, Lambda, OpenSearch, IAM, Bedrock Knowledge Base, AgentCore
+- Azure: Container Apps, Blob Storage, Tables
 - Docker, Flask, FastAPI, Streamlit
 
 ---
@@ -76,25 +78,6 @@ Focused on building models and systems that run reliably in production.
 ### Publications
 - Apple Wax Detection using CNNs  
 - Natural Fiber Reinforced Composites using Regression Analysis  
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
-</p>
 
 ---
 
