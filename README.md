@@ -1,80 +1,176 @@
-# Hi there I'm  
+<h1 align="left">
+  Hi there 👋, I'm
+</h1>
 
-![Typing Name](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=FFFFFF&center=false&vCenter=false&width=500&lines=Dheenath+Sundararajan)
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=900&color=00F7FF&width=600&lines=Dheenath+Sundararajan;Data+Scientist+%7C+AI+Engineer;Agentic+AI+%26+Applied+Deep+Learning"
+    alt="Typing Name"
+  />
+</p>
 
-### Data Scientist at R Systems, Noida  
-
---- 
-I’m a **Data Scientist at R Systems, Noida**, with a major in **Artificial Intelligence and Data Science**.  
-I’m passionate about applying data-driven approaches to solve real-world problems and building scalable AI solutions.  
-I’ve worked across diverse projects involving **computer vision, generative AI, and intelligent automation**, with a strong focus on **model optimization** and **deployment**.
-
----
-
-## Skills & Tools  
-
-**Languages:** Python, SQL, C++, C
-**Machine Learning & Deep Learning:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-**Data Wrangling & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Deployment & MLOps:** Flask, Streamlit, Docker, AWS  
-**GenAI & LLMs:** Hugging Face, LangChain, Ollama, Groq API  
-**Version Control:** Git, GitHub, VS Code, Jupyter  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-</div>
+### Data Scientist @ R Systems | AI Engineer | Agentic Systems Builder  
+📍 Noida, India  
 
 ---
 
-## Projects  
+## 👨‍💻 About Me
 
-### Empowering the AI-Powered Image Description  
-- Utilized **ViT** and **BLIP** models to generate image captions for **visually impaired individuals**.  
-- **Tools:** Python, PyTorch, ViT, BLIP  
+I’m a **Data Scientist and AI Engineer** with hands-on experience in **building, fine-tuning, and deploying end-to-end AI and Agentic systems**.  
+My work focuses on **applied deep learning**, **Generative AI**, and **production-grade architectures**, where models are not just trained — but **shipped, monitored, and scaled**.
 
----
+I enjoy working at the intersection of:
+- **LLMs & Agentic workflows**
+- **Computer Vision systems**
+- **Cloud-native AI deployments**
+- **Compliance-aware and real-world AI applications**
 
-### AI Sales Bot  
-- Built an **intelligent chatbot** for product recommendations and **sentiment-aware responses**.  
-- **Tools:** Python, FastAPI, Transformers, NLP  
-
----
-
-### Intel Unnati Industrial Training: GenAI Model Finetuning  
-- Applied **LoRA** for efficient **LLM fine-tuning**, focusing on **language adaptability and performance**.  
-- **Tools:** Hugging Face, TensorFlow, bfloat16  
+I care deeply about **strong fundamentals**, **clean system design**, and **engineering discipline over hype**.
 
 ---
 
-## Achievements  
+## 🧠 Programming & Core CS
 
-Competitive Programming: 40x DIV3, 10x DIV2 (CodeChef, 3-Star)
-Achieved a peak rating of 1683 and secured a global rank of 300.
-LeetCode Contest Rating: 1,655
-3rd Prize – Technical Quiz, Adithya Institute of Technology
-Solved 1000+ questions; participated in 90+ contests with a streak of 21.
-- Published papers on:  
-  - *Apple Wax Detection using CNNs*  
-  - *Natural Fiber Reinforced Composites using Regression Analysis*  
+- **Languages:** Python, C, C++  
+- **Core CS:** Operating Systems, DBMS  
 
 ---
 
-Reach me here:  
+## 🤖 AI / ML / Deep Learning
+
+- Machine Learning & Deep Learning  
+- Large Language Models (LLMs)  
+- RAG architectures (retrieval, chunking, embedding, reranking)  
+- Model fine-tuning: **LoRA, QLoRA**  
+- Hugging Face Transformers & Datasets  
+- NLP pipelines (classification, extraction, summarization)  
+- Sentiment analysis & toxic content detection  
+- PHI redaction & medical text extraction  
+- Compliance-aware AI workflows (healthcare-focused)
+
+---
+
+## 🧩 Agentic & Orchestration Frameworks
+
+- LangChain  
+- PydanticAI  
+- LlamaIndex  
+- AutoGen  
+- Strands Agents  
+- **AgentCore-based orchestration** (control plane vs data plane design)
+
+---
+
+## 👁️ Computer Vision
+
+- YOLO-based object detection & segmentation  
+- Real-time vision pipelines (webcam & stream-based)  
+- Facial Expression Recognition using **EfficientNet**  
+  - Fine-tuned on **FER datasets**  
+- Data annotation using **LabelImg**
+
+---
+
+## ☁️ Cloud & Deployment
+
+### AWS
+- S3, EC2, ECS, Fargate, Lambda  
+- OpenSearch  
+- IAM  
+- Bedrock Knowledge Base  
+- **AgentCore**
+
+### Azure
+- Container Apps  
+- Blob Storage  
+- Azure Tables  
+
+### DevOps & Serving
+- Docker & containerized deployments  
+- Flask, FastAPI, Streamlit  
+
+---
+
+## 🧪 Applied Systems (What I’ve Actually Built)
+
+- RAG-powered knowledge assistants  
+- Agentic AI systems with tool orchestration  
+- AI chatbots with memory & reasoning  
+- Vision-based assistive systems for visually impaired users  
+- Object detection & real-time monitoring pipelines  
+- Voice-enabled AI systems (TTS & speech pipelines)  
+- Deep learning fine-tuning:
+  - **EfficientNet** for facial expression detection  
+  - **Gemma 9B** fine-tuned on custom datasets using **QLoRA**
+- Scalable data ingestion via **web scraping**
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 AI-Powered Image Description for the Visually Impaired
+- Vision Transformer (ViT) + BLIP-based captioning  
+- Designed for real-world assistive use cases  
+- **Stack:** PyTorch, ViT, BLIP  
+
+---
+
+### 🔹 AI Sales Bot
+- Intelligent chatbot with product recommendations  
+- Sentiment-aware and context-driven responses  
+- **Stack:** FastAPI, Transformers, NLP  
+
+---
+
+### 🔹 Intel Unnati – GenAI Model Fine-Tuning
+- Efficient LLM fine-tuning using **LoRA**  
+- Focus on performance, adaptability, and memory efficiency  
+- **Stack:** Hugging Face, TensorFlow, bfloat16  
+
+---
+
+## 🏆 Achievements
+
+- **CodeChef:** 3⭐ | Peak Rating: **1683**  
+  - 40× Div 3, 10× Div 2  
+  - Global Rank ~300  
+- **LeetCode Contest Rating:** 1655  
+- Solved **1000+ problems**, participated in **90+ contests**  
+- **3rd Prize** – Technical Quiz, Adithya Institute of Technology  
+
+### 📄 Publications
+- *Apple Wax Detection using CNNs*  
+- *Natural Fiber Reinforced Composites using Regression Analysis*  
+
+---
+
+## 🛠️ Tech Stack Icons
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheenath-sundararajan)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dheenathsunder)  
 
 ---
 
-> _"Every dataset has a story — I just help it speak."_  
+> _"Every dataset has a story — I just help it speak."_
