@@ -1,10 +1,10 @@
-## Hi, I’m Dheenath Sundararajan 👋
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=900&color=36BCF7&width=520&lines=Dheenath+Sundararajan" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Dheenath+Sundararajan" />
 </p>
 
-**Data Scientist | AI Engineer | Agentic Systems**
+<p align="center">
+  <sub><strong>Data Scientist | AI Engineer | Agentic Systems</strong></sub>
+</p>
 
 I build production-grade AI systems spanning LLMs, RAG pipelines, and computer vision, with hands-on experience in agentic orchestration, LLM fine-tuning (LoRA, PEFT, RLAIF/RLVR), and real-time vision systems using YOLO and EfficientNet. My work includes sentiment-aware AI agents, PHI-safe NLP pipelines, document intelligence systems, and cloud-native deployments on AWS and Azure using Docker and FastAPI, with a strong focus on reliability, latency, and production readiness.
 
